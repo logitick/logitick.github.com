@@ -3,34 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://logitick.github.io/about/</loc>
     <lastmod>2018-09-15T16:01:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/articles/ci-cd-on-gke-with-codeship/</loc>
+    <loc>https://logitick.github.io/articles/ci-cd-on-gke-with-codeship/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/articles/</loc>
+    <loc>https://logitick.github.io/articles/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://logitick.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://logitick.github.io/tags/ci-cd/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://logitick.github.io/tags/codeship/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://logitick.github.io/tags/devops/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://logitick.github.io/tags/gke/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://logitick.github.io/</loc>
     <lastmod>2018-09-15T16:01:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://logitick.github.io/tags/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
     <priority>0</priority>
   </url>
   

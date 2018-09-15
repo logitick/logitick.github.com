@@ -2,13 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Paul Daniel Iway</title>
-    <link>/tags/</link>
+    <link>https://logitick.github.io/tags/</link>
     <description>Recent content in Tags on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 15 Sep 2018 15:30:46 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://logitick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ci Cd</title>
+      <link>https://logitick.github.io/tags/ci-cd/</link>
+      <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
+      
+      <guid>https://logitick.github.io/tags/ci-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codeship</title>
+      <link>https://logitick.github.io/tags/codeship/</link>
+      <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
+      
+      <guid>https://logitick.github.io/tags/codeship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://logitick.github.io/tags/devops/</link>
+      <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
+      
+      <guid>https://logitick.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gke</title>
+      <link>https://logitick.github.io/tags/gke/</link>
+      <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
+      
+      <guid>https://logitick.github.io/tags/gke/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

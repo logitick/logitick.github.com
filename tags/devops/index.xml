@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Paul Daniel Iway</title>
-    <link>https://logitick.github.io/articles/</link>
-    <description>Recent content in Articles on Paul Daniel Iway</description>
+    <title>Devops on Paul Daniel Iway</title>
+    <link>https://logitick.github.io/tags/devops/</link>
+    <description>Recent content in Devops on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Sep 2018 15:30:46 +0800</lastBuildDate>
     
-	<atom:link href="https://logitick.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://logitick.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
