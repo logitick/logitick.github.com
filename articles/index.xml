@@ -6,19 +6,18 @@
     <description>Recent content in Articles on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Sep 2018 15:22:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Sep 2018 15:30:46 +0800</lastBuildDate>
     
 	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Kubernetes</title>
-      <link>/articles/kubernetes/</link>
-      <pubDate>Sat, 15 Sep 2018 15:22:06 +0800</pubDate>
+      <title>How to setup a CI/CD pipeline with Codeship and GKE</title>
+      <link>/articles/ci-cd-on-gke-with-codeship/</link>
+      <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>/articles/kubernetes/</guid>
-      <description> What are Archetypes? Hello world
-int x = 5;  </description>
+      <guid>/articles/ci-cd-on-gke-with-codeship/</guid>
+      <description>I wrote an article about setting up a pipeline that is similar to what we have at Neso. You can read about it here: https://neso.io/innovation/how-to-setup-a-pipline-with-codeship-gke</description>
     </item>
     
   </channel>
