@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Paul Daniel Iway</title>
-    <link>https://logitick.github.io/tags/</link>
+    <link>//pdiway.com/tags/</link>
     <description>Recent content in Tags on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Sep 2018 15:30:46 +0800</lastBuildDate>
     
-	<atom:link href="https://logitick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ci Cd</title>
-      <link>https://logitick.github.io/tags/ci-cd/</link>
+      <link>//pdiway.com/tags/ci-cd/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/ci-cd/</guid>
+      <guid>//pdiway.com/tags/ci-cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Codeship</title>
-      <link>https://logitick.github.io/tags/codeship/</link>
+      <link>//pdiway.com/tags/codeship/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/codeship/</guid>
+      <guid>//pdiway.com/tags/codeship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devops</title>
-      <link>https://logitick.github.io/tags/devops/</link>
+      <link>//pdiway.com/tags/devops/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/devops/</guid>
+      <guid>//pdiway.com/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gke</title>
-      <link>https://logitick.github.io/tags/gke/</link>
+      <link>//pdiway.com/tags/gke/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/gke/</guid>
+      <guid>//pdiway.com/tags/gke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://logitick.github.io/tags/go/</link>
+      <link>//pdiway.com/tags/go/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/go/</guid>
+      <guid>//pdiway.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://logitick.github.io/tags/golang/</link>
+      <link>//pdiway.com/tags/golang/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/golang/</guid>
+      <guid>//pdiway.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorials</title>
-      <link>https://logitick.github.io/tags/tutorials/</link>
+      <link>//pdiway.com/tags/tutorials/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>https://logitick.github.io/tags/tutorials/</guid>
+      <guid>//pdiway.com/tags/tutorials/</guid>
       <description></description>
     </item>
     

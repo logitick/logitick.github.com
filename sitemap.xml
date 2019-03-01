@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://logitick.github.io/about/</loc>
+    <loc>//pdiway.com/about/</loc>
     <lastmod>2018-09-15T16:01:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/articles/a-close-look-at-golang-defer/</loc>
+    <loc>//pdiway.com/articles/a-close-look-at-golang-defer/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/articles/ci-cd-on-gke-with-codeship/</loc>
+    <loc>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/articles/</loc>
-    <lastmod>2018-09-22T09:44:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://logitick.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://logitick.github.io/tags/ci-cd/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://logitick.github.io/tags/codeship/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://logitick.github.io/tags/devops/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://logitick.github.io/tags/gke/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://logitick.github.io/tags/go/</loc>
+    <loc>//pdiway.com/articles/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/tags/golang/</loc>
+    <loc>//pdiway.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/ci-cd/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/codeship/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/devops/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/gke/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/go/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/</loc>
+    <loc>//pdiway.com/tags/golang/</loc>
+    <lastmod>2018-09-22T09:44:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/</loc>
     <lastmod>2018-09-15T16:01:36+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/tags/</loc>
+    <loc>//pdiway.com/tags/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://logitick.github.io/tags/tutorials/</loc>
+    <loc>//pdiway.com/tags/tutorials/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,28 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on Paul Daniel Iway</title>
-    <link>https://logitick.github.io/tags/go/</link>
+    <link>//pdiway.com/tags/go/</link>
     <description>Recent content in Go on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Sep 2018 09:44:13 +0800</lastBuildDate>
     
-	<atom:link href="https://logitick.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//pdiway.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Close Look at Golang&#39;s defer</title>
-      <link>https://logitick.github.io/articles/a-close-look-at-golang-defer/</link>
+      <link>//pdiway.com/articles/a-close-look-at-golang-defer/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
       
-      <guid>https://logitick.github.io/articles/a-close-look-at-golang-defer/</guid>
+      <guid>//pdiway.com/articles/a-close-look-at-golang-defer/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve never come across anything like Go&amp;rsquo;s &lt;code&gt;defer&lt;/code&gt; in any of the languages I&amp;rsquo;ve
 worked on before. As far as I know there isn&amp;rsquo;t an equivalent
 of it in PHP and the closest we have in Java is
 &lt;a href=&#34;https://stackoverflow.com/questions/29788307/what-is-the-defer-equivalent-for-java&#34;&gt;try-with-resources&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;ve been coding in Go you&amp;rsquo;ve probably used the
-&lt;code&gt;defer&lt;/code&gt; statement plenty of times.&lt;/p&gt;</description>
+&lt;code&gt;defer&lt;/code&gt; statement plenty of times.
+&lt;/p&gt;</description>
     </item>
     
   </channel>
