@@ -33,7 +33,7 @@ of it in PHP and the closest we have in Java is
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
       <guid>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</guid>
-      <description>I wrote an article about setting up a pipeline that is similar to what we have at Neso. You can read about it here: https://neso.io/innovation/how-to-setup-a-pipline-with-codeship-gke</description>
+      <description>I wrote an article about setting up a pipeline that is similar to what we have at Neso. You can read about it here: https://neso.io/innovation/how-to-setup-a-pipeline-with-codeship-gke</description>
     </item>
     
   </channel>
