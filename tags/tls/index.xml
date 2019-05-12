@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tls on Paul Daniel Iway</title>
-    <link>//pdiway.com/tags/tls/</link>
+    <link>https://pdiway.com/tags/tls/</link>
     <description>Recent content in tls on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate>
     
-	<atom:link href="//pdiway.com/tags/tls/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdiway.com/tags/tls/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Add a TLS Certificate for Your Kubernetes Ingress</title>
-      <link>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
+      <link>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
+      <guid>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
       <description>&lt;p&gt;I keep forgetting how to do this. Now, I’m writing down because the internet
 never forgets.&lt;/p&gt;
 

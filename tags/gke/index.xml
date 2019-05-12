@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gke on Paul Daniel Iway</title>
-    <link>//pdiway.com/tags/gke/</link>
+    <link>https://pdiway.com/tags/gke/</link>
     <description>Recent content in gke on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Sep 2018 15:30:46 +0800</lastBuildDate>
     
-	<atom:link href="//pdiway.com/tags/gke/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdiway.com/tags/gke/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to setup a CI/CD pipeline with Codeship and GKE</title>
-      <link>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</link>
+      <link>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</guid>
+      <guid>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</guid>
       <description>I wrote an article about setting up a pipeline that is similar to what we have at Neso. You can read about it here: https://neso.io/innovation/how-to-setup-a-pipeline-with-codeship-gke</description>
     </item>
     

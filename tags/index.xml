@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Paul Daniel Iway</title>
-    <link>//pdiway.com/tags/</link>
+    <link>https://pdiway.com/tags/</link>
     <description>Recent content in Tags on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate>
     
-	<atom:link href="//pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>k8s</title>
-      <link>//pdiway.com/tags/k8s/</link>
+      <link>https://pdiway.com/tags/k8s/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/k8s/</guid>
+      <guid>https://pdiway.com/tags/k8s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubernetes</title>
-      <link>//pdiway.com/tags/kubernetes/</link>
+      <link>https://pdiway.com/tags/kubernetes/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/kubernetes/</guid>
+      <guid>https://pdiway.com/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>//pdiway.com/tags/ssl/</link>
+      <link>https://pdiway.com/tags/ssl/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/ssl/</guid>
+      <guid>https://pdiway.com/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tls</title>
-      <link>//pdiway.com/tags/tls/</link>
+      <link>https://pdiway.com/tags/tls/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/tls/</guid>
+      <guid>https://pdiway.com/tags/tls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorials</title>
-      <link>//pdiway.com/tags/tutorials/</link>
+      <link>https://pdiway.com/tags/tutorials/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/tutorials/</guid>
+      <guid>https://pdiway.com/tags/tutorials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>//pdiway.com/tags/go/</link>
+      <link>https://pdiway.com/tags/go/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/go/</guid>
+      <guid>https://pdiway.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>//pdiway.com/tags/golang/</link>
+      <link>https://pdiway.com/tags/golang/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/golang/</guid>
+      <guid>https://pdiway.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ci-cd</title>
-      <link>//pdiway.com/tags/ci-cd/</link>
+      <link>https://pdiway.com/tags/ci-cd/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/ci-cd/</guid>
+      <guid>https://pdiway.com/tags/ci-cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>codeship</title>
-      <link>//pdiway.com/tags/codeship/</link>
+      <link>https://pdiway.com/tags/codeship/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/codeship/</guid>
+      <guid>https://pdiway.com/tags/codeship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>devops</title>
-      <link>//pdiway.com/tags/devops/</link>
+      <link>https://pdiway.com/tags/devops/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/devops/</guid>
+      <guid>https://pdiway.com/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gke</title>
-      <link>//pdiway.com/tags/gke/</link>
+      <link>https://pdiway.com/tags/gke/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>//pdiway.com/tags/gke/</guid>
+      <guid>https://pdiway.com/tags/gke/</guid>
       <description></description>
     </item>
     

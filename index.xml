@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Daniel Iway</title>
-    <link>//pdiway.com/</link>
+    <link>https://pdiway.com/</link>
     <description>Recent content on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate>
     
-	<atom:link href="//pdiway.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdiway.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>//pdiway.com/about/</link>
+      <link>https://pdiway.com/about/</link>
       <pubDate>Sat, 15 Sep 2018 16:01:36 +0800</pubDate>
       
-      <guid>//pdiway.com/about/</guid>
+      <guid>https://pdiway.com/about/</guid>
       <description>My name is Paul Daniel Iway from the Philippines. I&amp;rsquo;ve been developing web applications with PHP for about 5 years now and Im starting to write command line applications with Go recently.
 Not only can I write applications, I can also help ensure smooth delivery to production environments by implementing a good delivery pipeline. I use Docker for containerization and Kubernetes for orchestration.
 Tech stack Languages: Go, PHP, JavaScript</description>
@@ -24,10 +24,10 @@ Tech stack Languages: Go, PHP, JavaScript</description>
     
     <item>
       <title>Add a TLS Certificate for Your Kubernetes Ingress</title>
-      <link>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
+      <link>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
-      <guid>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
+      <guid>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
       <description>&lt;p&gt;I keep forgetting how to do this. Now, I’m writing down because the internet
 never forgets.&lt;/p&gt;
 
@@ -37,10 +37,10 @@ kubernetes.&lt;/p&gt;</description>
     
     <item>
       <title>A Close Look at Golang&#39;s defer</title>
-      <link>//pdiway.com/articles/a-close-look-at-golang-defer/</link>
+      <link>https://pdiway.com/articles/a-close-look-at-golang-defer/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
       
-      <guid>//pdiway.com/articles/a-close-look-at-golang-defer/</guid>
+      <guid>https://pdiway.com/articles/a-close-look-at-golang-defer/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve never come across anything like Go&amp;rsquo;s &lt;code&gt;defer&lt;/code&gt; in any of the languages I&amp;rsquo;ve
 worked on before. As far as I know there isn&amp;rsquo;t an equivalent
 of it in PHP and the closest we have in Java is
@@ -52,10 +52,10 @@ of it in PHP and the closest we have in Java is
     
     <item>
       <title>How to setup a CI/CD pipeline with Codeship and GKE</title>
-      <link>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</link>
+      <link>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</link>
       <pubDate>Sat, 15 Sep 2018 15:30:46 +0800</pubDate>
       
-      <guid>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</guid>
+      <guid>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</guid>
       <description>I wrote an article about setting up a pipeline that is similar to what we have at Neso. You can read about it here: https://neso.io/innovation/how-to-setup-a-pipeline-with-codeship-gke</description>
     </item>
     
