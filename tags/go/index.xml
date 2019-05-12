@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Go on Paul Daniel Iway</title>
+    <title>go on Paul Daniel Iway</title>
     <link>//pdiway.com/tags/go/</link>
-    <description>Recent content in Go on Paul Daniel Iway</description>
+    <description>Recent content in go on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Sep 2018 09:44:13 +0800</lastBuildDate>
@@ -23,8 +23,7 @@ of it in PHP and the closest we have in Java is
 &lt;a href=&#34;https://stackoverflow.com/questions/29788307/what-is-the-defer-equivalent-for-java&#34;&gt;try-with-resources&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;ve been coding in Go you&amp;rsquo;ve probably used the
-&lt;code&gt;defer&lt;/code&gt; statement plenty of times.
-&lt;/p&gt;</description>
+&lt;code&gt;defer&lt;/code&gt; statement plenty of times.&lt;/p&gt;</description>
     </item>
     
   </channel>

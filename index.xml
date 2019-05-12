@@ -6,7 +6,7 @@
     <description>Recent content on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Sep 2018 16:01:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate>
     
 	<atom:link href="//pdiway.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,6 +23,19 @@ Tech stack Languages: Go, PHP, JavaScript</description>
     </item>
     
     <item>
+      <title>Add a TLS Certificate for Your Kubernetes Ingress</title>
+      <link>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
+      <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
+      
+      <guid>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
+      <description>&lt;p&gt;I keep forgetting how to do this. Now, I’m writing down because the internet
+never forgets.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve been given a bunch of &lt;code&gt;crt&lt;/code&gt; files here a the steps to add them to
+kubernetes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>A Close Look at Golang&#39;s defer</title>
       <link>//pdiway.com/articles/a-close-look-at-golang-defer/</link>
       <pubDate>Sat, 22 Sep 2018 09:44:13 +0800</pubDate>
@@ -34,8 +47,7 @@ of it in PHP and the closest we have in Java is
 &lt;a href=&#34;https://stackoverflow.com/questions/29788307/what-is-the-defer-equivalent-for-java&#34;&gt;try-with-resources&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;ve been coding in Go you&amp;rsquo;ve probably used the
-&lt;code&gt;defer&lt;/code&gt; statement plenty of times.
-&lt;/p&gt;</description>
+&lt;code&gt;defer&lt;/code&gt; statement plenty of times.&lt;/p&gt;</description>
     </item>
     
     <item>

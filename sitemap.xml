@@ -8,24 +8,78 @@
   </url>
   
   <url>
+    <loc>//pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/articles/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/k8s/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/kubernetes/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/ssl/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/tls/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/tags/tutorials/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>//pdiway.com/articles/a-close-look-at-golang-defer/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pdiway.com/articles/</loc>
+    <loc>//pdiway.com/tags/go/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//pdiway.com/categories/</loc>
+    <loc>//pdiway.com/tags/golang/</loc>
+    <lastmod>2018-09-22T09:44:13+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//pdiway.com/articles/ci-cd-on-gke-with-codeship/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
   </url>
   
   <url>
@@ -53,32 +107,7 @@
   </url>
   
   <url>
-    <loc>//pdiway.com/tags/go/</loc>
-    <lastmod>2018-09-22T09:44:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//pdiway.com/tags/golang/</loc>
-    <lastmod>2018-09-22T09:44:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//pdiway.com/</loc>
-    <lastmod>2018-09-15T16:01:36+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//pdiway.com/tags/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//pdiway.com/tags/tutorials/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+    <loc>//pdiway.com/categories/</loc>
     <priority>0</priority>
   </url>
   
