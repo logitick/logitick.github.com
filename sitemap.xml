@@ -8,26 +8,49 @@
   </url>
   
   <url>
-    <loc>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pdiway.com/articles/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pdiway.com/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://pdiway.com/articles/basic-oop/</loc>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pdiway.com/tags/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/fundamentals/</loc>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/oop/</loc>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/programming/</loc>
+    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
   </url>
   
   <url>

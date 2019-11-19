@@ -6,10 +6,20 @@
     <description>Recent content in Articles on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 12:46:12 +0800</lastBuildDate>
     
 	<atom:link href="https://pdiway.com/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Struggling with OOP</title>
+      <link>https://pdiway.com/articles/basic-oop/</link>
+      <pubDate>Sun, 26 May 2019 12:46:12 +0800</pubDate>
+      
+      <guid>https://pdiway.com/articles/basic-oop/</guid>
+      <description>In a previous job interview, I&amp;rsquo;ve been asked a basic question about OOP: &amp;ldquo;What are the four pillars of OOP?&amp;ldquo;. It made me feel really bad about not being able to give an answer because I use these concepts everyday.
+The interview had also reminded me of how frustrating it felt to not understand the concept during my time in college. Those books where they tell you that a cat is an object didn&amp;rsquo;t help at all.</description>
+    </item>
     
     <item>
       <title>Add a TLS Certificate for Your Kubernetes Ingress</title>
