@@ -8,13 +8,60 @@
   </url>
   
   <url>
-    <loc>https://pdiway.com/articles/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
+    <loc>https://pdiway.com/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pdiway.com/</loc>
+    <loc>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/til/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/apache/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/digital-ocean/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/migration/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/ssl/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/tags/til/</loc>
+    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pdiway.com/articles/</loc>
     <lastmod>2019-05-26T12:46:12+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -22,12 +69,6 @@
   <url>
     <loc>https://pdiway.com/articles/basic-oop/</loc>
     <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,12 +102,6 @@
   
   <url>
     <loc>https://pdiway.com/tags/kubernetes/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/ssl/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
     <priority>0</priority>
   </url>

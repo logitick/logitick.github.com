@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ssl on Paul Daniel Iway</title>
-    <link>https://pdiway.com/tags/ssl/</link>
-    <description>Recent content in ssl on Paul Daniel Iway</description>
+    <title>apache on Paul Daniel Iway</title>
+    <link>https://pdiway.com/tags/apache/</link>
+    <description>Recent content in apache on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Nov 2019 14:11:46 +0800</lastBuildDate>
     
-	<atom:link href="https://pdiway.com/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pdiway.com/tags/apache/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,19 +19,6 @@
       <guid>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</guid>
       <description>At work we have a Digital Ocean droplet serving some Wordpress sites. These had no Floating IPs which means if for some reason we needed to destroy the droplet and restore from a snapshot theres a large chance we would end up losing the IP address.
 So I got approval from the higher-ups to start adding the Floating IP and update the DNS record of one of the sites.</description>
-    </item>
-    
-    <item>
-      <title>Add a TLS Certificate for Your Kubernetes Ingress</title>
-      <link>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
-      <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
-      
-      <guid>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
-      <description>&lt;p&gt;I keep forgetting how to do this. Now, I’m writing down because the internet
-never forgets.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;ve been given a bunch of &lt;code&gt;crt&lt;/code&gt; files here a the steps to add them to
-kubernetes.&lt;/p&gt;</description>
     </item>
     
   </channel>

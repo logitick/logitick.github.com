@@ -6,7 +6,7 @@
     <description>Recent content on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 12:46:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 14:11:46 +0800</lastBuildDate>
     
 	<atom:link href="https://pdiway.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,16 @@
       <description>My name is Paul Daniel Iway from the Philippines. I&amp;rsquo;ve been developing web applications with PHP for about 5 years now and Im starting to write command line applications with Go recently.
 Not only can I write applications, I can also help ensure smooth delivery to production environments by implementing a good delivery pipeline. I use Docker for containerization and Kubernetes for orchestration.
 Tech stack Languages: Go, PHP, JavaScript</description>
+    </item>
+    
+    <item>
+      <title>TIL: You Can Get SSL Errors When You Migrate to a New IP Address</title>
+      <link>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</link>
+      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
+      
+      <guid>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</guid>
+      <description>At work we have a Digital Ocean droplet serving some Wordpress sites. These had no Floating IPs which means if for some reason we needed to destroy the droplet and restore from a snapshot theres a large chance we would end up losing the IP address.
+So I got approval from the higher-ups to start adding the Floating IP and update the DNS record of one of the sites.</description>
     </item>
     
     <item>
