@@ -4,10 +4,28 @@
   <url>
     <loc>https://pdiway.com/about/</loc>
   </url><url>
-    <loc>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://pdiway.com/articles/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/tags/docker/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/articles/how-to-move-docker-data-directory/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/tags/linux/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/tags/storage/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/tags/</loc>
+    <lastmod>2021-05-04T19:00:48+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
   </url><url>
     <loc>https://pdiway.com/tags/k8s/</loc>
@@ -16,13 +34,7 @@
     <loc>https://pdiway.com/tags/kubernetes/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://pdiway.com/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://pdiway.com/tags/ssl/</loc>
-    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://pdiway.com/tags/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
   </url><url>
     <loc>https://pdiway.com/tags/tls/</loc>

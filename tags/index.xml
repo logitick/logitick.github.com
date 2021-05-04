@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate><atom:link href="https://pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 19:00:48 +0800</lastBuildDate><atom:link href="https://pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://pdiway.com/tags/docker/</link>
+      <pubDate>Tue, 04 May 2021 19:00:48 +0800</pubDate>
+      
+      <guid>https://pdiway.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://pdiway.com/tags/linux/</link>
+      <pubDate>Tue, 04 May 2021 19:00:48 +0800</pubDate>
+      
+      <guid>https://pdiway.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>storage</title>
+      <link>https://pdiway.com/tags/storage/</link>
+      <pubDate>Tue, 04 May 2021 19:00:48 +0800</pubDate>
+      
+      <guid>https://pdiway.com/tags/storage/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>k8s</title>
       <link>https://pdiway.com/tags/k8s/</link>
