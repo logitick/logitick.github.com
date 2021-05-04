@@ -1,172 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://pdiway.com/about/</loc>
-    <lastmod>2018-09-15T16:01:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/til/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/apache/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/digital-ocean/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/migration/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/ssl/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/til/</loc>
-    <lastmod>2019-11-12T14:11:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/articles/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/articles/basic-oop/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/fundamentals/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/oop/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/tags/programming/</loc>
-    <lastmod>2019-05-26T12:46:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://pdiway.com/articles/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+  </url><url>
     <loc>https://pdiway.com/tags/k8s/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/kubernetes/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://pdiway.com/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/tags/ssl/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+  </url><url>
+    <loc>https://pdiway.com/tags/</loc>
+    <lastmod>2019-04-25T21:42:23+08:00</lastmod>
+  </url><url>
     <loc>https://pdiway.com/tags/tls/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/tutorials/</loc>
     <lastmod>2019-04-25T21:42:23+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/articles/a-close-look-at-golang-defer/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/go/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/golang/</loc>
     <lastmod>2018-09-22T09:44:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</loc>
-    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/ci-cd/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/codeship/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/devops/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://pdiway.com/tags/gke/</loc>
     <lastmod>2018-09-15T15:30:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</loc>
+    <lastmod>2018-09-15T15:30:46+08:00</lastmod>
+  </url><url>
     <loc>https://pdiway.com/categories/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://pdiway.com/search/</loc>
   </url>
-  
 </urlset>

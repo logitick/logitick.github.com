@@ -1,26 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Articles on Paul Daniel Iway</title>
     <link>https://pdiway.com/articles/</link>
     <description>Recent content in Articles on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 12:46:12 +0800</lastBuildDate>
-    
-	<atom:link href="https://pdiway.com/articles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Struggling with OOP</title>
-      <link>https://pdiway.com/articles/basic-oop/</link>
-      <pubDate>Sun, 26 May 2019 12:46:12 +0800</pubDate>
-      
-      <guid>https://pdiway.com/articles/basic-oop/</guid>
-      <description>In a previous job interview, I&amp;rsquo;ve been asked a basic question about OOP: &amp;ldquo;What are the four pillars of OOP?&amp;ldquo;. It made me feel really bad about not being able to give an answer because I use these concepts everyday.
-The interview had also reminded me of how frustrating it felt to not understand the concept during my time in college. Those books where they tell you that a cat is an object didn&amp;rsquo;t help at all.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate><atom:link href="https://pdiway.com/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Add a TLS Certificate for Your Kubernetes Ingress</title>
       <link>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</link>
@@ -29,7 +15,6 @@ The interview had also reminded me of how frustrating it felt to not understand 
       <guid>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
       <description>&lt;p&gt;I keep forgetting how to do this. Now, I’m writing down because the internet
 never forgets.&lt;/p&gt;
-
 &lt;p&gt;If you&amp;rsquo;ve been given a bunch of &lt;code&gt;crt&lt;/code&gt; files here a the steps to add them to
 kubernetes.&lt;/p&gt;</description>
     </item>
@@ -44,7 +29,6 @@ kubernetes.&lt;/p&gt;</description>
 worked on before. As far as I know there isn&amp;rsquo;t an equivalent
 of it in PHP and the closest we have in Java is
 &lt;a href=&#34;https://stackoverflow.com/questions/29788307/what-is-the-defer-equivalent-for-java&#34;&gt;try-with-resources&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;If you&amp;rsquo;ve been coding in Go you&amp;rsquo;ve probably used the
 &lt;code&gt;defer&lt;/code&gt; statement plenty of times.&lt;/p&gt;</description>
     </item>

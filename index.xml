@@ -1,45 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Paul Daniel Iway</title>
     <link>https://pdiway.com/</link>
     <description>Recent content on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 14:11:46 +0800</lastBuildDate>
-    
-	<atom:link href="https://pdiway.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate><atom:link href="https://pdiway.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://pdiway.com/about/</link>
-      <pubDate>Sat, 15 Sep 2018 16:01:36 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pdiway.com/about/</guid>
-      <description>My name is Paul Daniel Iway from the Philippines. I&amp;rsquo;ve been developing web applications with PHP for about 5 years now and Im starting to write command line applications with Go recently.
-Not only can I write applications, I can also help ensure smooth delivery to production environments by implementing a good delivery pipeline. I use Docker for containerization and Kubernetes for orchestration.
-Tech stack Languages: Go, PHP, JavaScript</description>
-    </item>
-    
-    <item>
-      <title>TIL: You Can Get SSL Errors When You Migrate to a New IP Address</title>
-      <link>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</link>
-      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
-      
-      <guid>https://pdiway.com/til/you-can-get-ssl-errors-when-you-migrate-to-a-new-ip/</guid>
-      <description>At work we have a Digital Ocean droplet serving some Wordpress sites. These had no Floating IPs which means if for some reason we needed to destroy the droplet and restore from a snapshot theres a large chance we would end up losing the IP address.
-So I got approval from the higher-ups to start adding the Floating IP and update the DNS record of one of the sites.</description>
-    </item>
-    
-    <item>
-      <title>Struggling with OOP</title>
-      <link>https://pdiway.com/articles/basic-oop/</link>
-      <pubDate>Sun, 26 May 2019 12:46:12 +0800</pubDate>
-      
-      <guid>https://pdiway.com/articles/basic-oop/</guid>
-      <description>In a previous job interview, I&amp;rsquo;ve been asked a basic question about OOP: &amp;ldquo;What are the four pillars of OOP?&amp;ldquo;. It made me feel really bad about not being able to give an answer because I use these concepts everyday.
-The interview had also reminded me of how frustrating it felt to not understand the concept during my time in college. Those books where they tell you that a cat is an object didn&amp;rsquo;t help at all.</description>
+      <description>My name is Paul Daniel Iway Full-stack Developer / Devops Engineer @ Suzerin I&amp;rsquo;ve been developing web applications with PHP for about 6 years now and I work mostly in PHP but I am very open to learning new things.
+Not only can I make web applications, I can also help ensure smooth delivery to production environments by implementing a good delivery pipeline. I use Docker for containerization and Kubernetes for orchestration.</description>
     </item>
     
     <item>
@@ -50,7 +25,6 @@ The interview had also reminded me of how frustrating it felt to not understand 
       <guid>https://pdiway.com/articles/add-a-tls-certificate-for-your-kubernetes-ingress/</guid>
       <description>&lt;p&gt;I keep forgetting how to do this. Now, I’m writing down because the internet
 never forgets.&lt;/p&gt;
-
 &lt;p&gt;If you&amp;rsquo;ve been given a bunch of &lt;code&gt;crt&lt;/code&gt; files here a the steps to add them to
 kubernetes.&lt;/p&gt;</description>
     </item>
@@ -65,7 +39,6 @@ kubernetes.&lt;/p&gt;</description>
 worked on before. As far as I know there isn&amp;rsquo;t an equivalent
 of it in PHP and the closest we have in Java is
 &lt;a href=&#34;https://stackoverflow.com/questions/29788307/what-is-the-defer-equivalent-for-java&#34;&gt;try-with-resources&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;If you&amp;rsquo;ve been coding in Go you&amp;rsquo;ve probably used the
 &lt;code&gt;defer&lt;/code&gt; statement plenty of times.&lt;/p&gt;</description>
     </item>
@@ -78,6 +51,7 @@ of it in PHP and the closest we have in Java is
       <guid>https://pdiway.com/articles/ci-cd-on-gke-with-codeship/</guid>
       <description>I wrote an article about setting up a pipeline that is similar to what we have at Neso. You can read about it here: https://neso.io/innovation/how-to-setup-a-pipeline-with-codeship-gke</description>
     </item>
+    
     
   </channel>
 </rss>

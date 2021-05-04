@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Paul Daniel Iway</title>
     <link>https://pdiway.com/tags/</link>
     <description>Recent content in Tags on Paul Daniel Iway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 14:11:46 +0800</lastBuildDate>
-    
-	<atom:link href="https://pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>apache</title>
-      <link>https://pdiway.com/tags/apache/</link>
-      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/apache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital ocean</title>
-      <link>https://pdiway.com/tags/digital-ocean/</link>
-      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/digital-ocean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>migration</title>
-      <link>https://pdiway.com/tags/migration/</link>
-      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ssl</title>
-      <link>https://pdiway.com/tags/ssl/</link>
-      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/ssl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>til</title>
-      <link>https://pdiway.com/tags/til/</link>
-      <pubDate>Tue, 12 Nov 2019 14:11:46 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/til/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fundamentals</title>
-      <link>https://pdiway.com/tags/fundamentals/</link>
-      <pubDate>Sun, 26 May 2019 12:46:12 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/fundamentals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oop</title>
-      <link>https://pdiway.com/tags/oop/</link>
-      <pubDate>Sun, 26 May 2019 12:46:12 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/oop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://pdiway.com/tags/programming/</link>
-      <pubDate>Sun, 26 May 2019 12:46:12 +0800</pubDate>
-      
-      <guid>https://pdiway.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 25 Apr 2019 21:42:23 +0800</lastBuildDate><atom:link href="https://pdiway.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>k8s</title>
       <link>https://pdiway.com/tags/k8s/</link>
@@ -98,6 +22,15 @@
       <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
       
       <guid>https://pdiway.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://pdiway.com/tags/ssl/</link>
+      <pubDate>Thu, 25 Apr 2019 21:42:23 +0800</pubDate>
+      
+      <guid>https://pdiway.com/tags/ssl/</guid>
       <description></description>
     </item>
     
